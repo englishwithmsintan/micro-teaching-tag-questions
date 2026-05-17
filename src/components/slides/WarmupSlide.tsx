@@ -7,7 +7,6 @@ const INITIAL_JOBS = [
   { title: 'Pilot', icon: Plane, action: 'I fly airplanes and travel on long journeys!', color: 'text-brand-primary', bg: 'bg-brand-primary/20' },
   { title: 'Photographer', icon: Camera, action: 'I take photos for magazines and school books!', color: 'text-brand-accent', bg: 'bg-brand-accent/20' },
   { title: 'Firefighter', icon: Flame, action: 'I am brave and I rescue people in danger!', color: 'text-orange-500', bg: 'bg-orange-500/20' },
-  { title: 'Businesswoman', icon: Target, action: 'I work in a big office and make important decisions!', color: 'text-brand-secondary', bg: 'bg-brand-secondary/20' },
   { title: 'Singer', icon: Music, action: 'I sing songs on stage and have many fans!', color: 'text-neon-pink', bg: 'bg-neon-pink/20' },
 ];
 
