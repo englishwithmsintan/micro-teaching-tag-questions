@@ -1,0 +1,8 @@
+{
+  "name": "Buddy's Tag Question Adventure",
+  "description": "An interactive ESL micro-teaching presentation for Grade 5 students focusing on tag questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
