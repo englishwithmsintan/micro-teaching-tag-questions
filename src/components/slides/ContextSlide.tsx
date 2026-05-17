@@ -72,7 +72,7 @@ export function ContextSlide({ onNext }: SlideProps) {
             
             <div className="relative bg-discord-panel rounded-[3rem] p-3 shadow-2xl overflow-hidden ring-1 ring-white/10">
                <img 
-                src="/src/assets/images/regenerated_image_1779002889750.webp" 
+                src="https://media.tenor.com/fI3rdEOGjPwAAAAm/tesla-optimus-3-tesla.webp" 
                 alt="Buddie Bot" 
                 className="w-full h-auto rounded-[2.5rem] brightness-110"
                 referrerPolicy="no-referrer"
